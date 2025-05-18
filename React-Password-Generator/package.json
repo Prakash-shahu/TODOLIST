@@ -1,0 +1,18 @@
+{
+  "name": "react-password-generator",
+  "version": "1.0.0",
+  "description": "It's a simple password generator UI tried",
+ 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "prakash",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
